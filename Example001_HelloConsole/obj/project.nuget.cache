@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZSDO2/mfPXOPBgARNq6jiqwM5jrSkTKijPpOhN0Ihjq9CO+SmP+MzQgzevW5ZFTBk0bwFf9MsjohB3e3kdOhZA==",
+  "success": true,
+  "projectFilePath": "/home/sergey/Documents/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/sergey/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
